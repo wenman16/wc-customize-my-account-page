@@ -1,0 +1,1 @@
+# wc-customize-my-account-page
